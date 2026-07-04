@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- A&M monument mark on brand-red tile. Paths extracted from am-crg-white.svg.
+       Background uses the site red (#BA0018); swap to A&M crimson #C8102E if preferred. -->
+  <rect width="100" height="100" rx="18" fill="#BA0018"/>
+  <g fill="#FFFFFF" transform="translate(25.6 22) scale(0.837)">
+    <path d="M39.65,0 L0,66.9 H9.167 L41.413,10.158 V66.898 H48.6 V0 Z"/>
+    <path d="M38.667,19.349 L31.434,32.064 V66.897 H38.667 Z"/>
+    <path d="M50.963,19.349 L58.194,32.064 V66.897 H50.963 Z"/>
+  </g>
+</svg>
